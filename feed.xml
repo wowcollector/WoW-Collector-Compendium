@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>WoW Collector&#x27;s Compendium</title>
+    <link href="https://wowcollector.github.com/WoW-Collector-Compendium/feed.xml" rel="self" />
+    <link href="https://wowcollector.github.com/WoW-Collector-Compendium" />
+    <updated>2026-08-13T23:19:10+01:00</updated>
+    <author>
+        <name>Noxious</name>
+    </author>
+    <id>https://wowcollector.github.com/WoW-Collector-Compendium</id>
+
+    <entry>
+        <title>Garrison PvP Achievements</title>
+        <author>
+            <name>Noxious</name>
+        </author>
+        <link href="https://wowcollector.github.com/WoW-Collector-Compendium/garrison-pvp-achievements.html"/>
+        <id>https://wowcollector.github.com/WoW-Collector-Compendium/garrison-pvp-achievements.html</id>
+
+        <updated>2026-08-13T23:19:10+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Raceslayer stuff
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Raceslayer stuff</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Garrison Mission Gear Tokens</title>
+        <author>
+            <name>Noxious</name>
+        </author>
+        <link href="https://wowcollector.github.com/WoW-Collector-Compendium/garrison-mission-gear-tokens.html"/>
+        <id>https://wowcollector.github.com/WoW-Collector-Compendium/garrison-mission-gear-tokens.html</id>
+
+        <updated>2026-08-13T23:18:53+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Turbulent, Tormented, Munificent, Formidable, Grandiose
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Turbulent, Tormented, Munificent, Formidable, Grandiose</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Origin</title>
+        <author>
+            <name>Noxious</name>
+        </author>
+        <link href="https://wowcollector.github.com/WoW-Collector-Compendium/the-origin.html"/>
+        <id>https://wowcollector.github.com/WoW-Collector-Compendium/the-origin.html</id>
+
+        <updated>2026-08-13T23:12:31+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    The first page.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    The first page.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

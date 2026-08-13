@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wowcollector.github.com/WoW-Collector-Compendium/sitemap.xml
