@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://wowcollector.github.com/WoW-Collector-Compendium/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://wowcollector.github.io/WoW-Collector-Compendium/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://wowcollector.github.com/WoW-Collector-Compendium/</loc>
+<loc>https://wowcollector.github.io/WoW-Collector-Compendium/</loc>
 </url>
 <url>
-<loc>https://wowcollector.github.com/WoW-Collector-Compendium/garrison-mission-gear-tokens.html</loc>
+<loc>https://wowcollector.github.io/WoW-Collector-Compendium/garrison-mission-gear-tokens.html</loc>
 <lastmod>2026-08-13T23:18:53+01:00</lastmod>
 </url>
 <url>
-<loc>https://wowcollector.github.com/WoW-Collector-Compendium/garrison-pvp-achievements-2.html</loc>
+<loc>https://wowcollector.github.io/WoW-Collector-Compendium/garrison-pvp-achievements-2.html</loc>
 <lastmod>2026-08-13T23:20:11+01:00</lastmod>
 </url>
 <url>
-<loc>https://wowcollector.github.com/WoW-Collector-Compendium/garrison-pvp-achievements.html</loc>
+<loc>https://wowcollector.github.io/WoW-Collector-Compendium/garrison-pvp-achievements.html</loc>
 <lastmod>2026-08-13T23:19:10+01:00</lastmod>
 </url>
 <url>
-<loc>https://wowcollector.github.com/WoW-Collector-Compendium/test.html</loc>
+<loc>https://wowcollector.github.io/WoW-Collector-Compendium/test.html</loc>
 <lastmod>2026-08-13T23:30:02+01:00</lastmod>
 </url>
 <url>
-<loc>https://wowcollector.github.com/WoW-Collector-Compendium/the-origin.html</loc>
+<loc>https://wowcollector.github.io/WoW-Collector-Compendium/the-origin.html</loc>
 <lastmod>2026-08-13T23:12:31+01:00</lastmod>
 </url>
 <url>
-<loc>https://wowcollector.github.com/WoW-Collector-Compendium/warlords-of-draenor.html</loc>
+<loc>https://wowcollector.github.io/WoW-Collector-Compendium/warlords-of-draenor.html</loc>
 <lastmod>2026-08-13T23:23:57+01:00</lastmod>
 </url>
 </urlset>

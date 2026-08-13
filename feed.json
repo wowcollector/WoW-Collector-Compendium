@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "WoW Collector&#x27;s Compendium",
     "description": "",
-    "home_page_url": "https://wowcollector.github.com/WoW-Collector-Compendium",
-    "feed_url": "https://wowcollector.github.com/WoW-Collector-Compendium/feed.json",
+    "home_page_url": "https://wowcollector.github.io/WoW-Collector-Compendium",
+    "feed_url": "https://wowcollector.github.io/WoW-Collector-Compendium/feed.json",
     "user_comment": "",
     "author": {
         "name": "Noxious"
     },
     "items": [
         {
-            "id": "https://wowcollector.github.com/WoW-Collector-Compendium/garrison-pvp-achievements.html",
-            "url": "https://wowcollector.github.com/WoW-Collector-Compendium/garrison-pvp-achievements.html",
+            "id": "https://wowcollector.github.io/WoW-Collector-Compendium/garrison-pvp-achievements.html",
+            "url": "https://wowcollector.github.io/WoW-Collector-Compendium/garrison-pvp-achievements.html",
             "title": "Garrison PvP Achievements",
             "summary": "Raceslayer stuff",
             "content_html": "<p>Raceslayer stuff</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2026-08-13T23:19:10+01:00"
         },
         {
-            "id": "https://wowcollector.github.com/WoW-Collector-Compendium/garrison-mission-gear-tokens.html",
-            "url": "https://wowcollector.github.com/WoW-Collector-Compendium/garrison-mission-gear-tokens.html",
+            "id": "https://wowcollector.github.io/WoW-Collector-Compendium/garrison-mission-gear-tokens.html",
+            "url": "https://wowcollector.github.io/WoW-Collector-Compendium/garrison-mission-gear-tokens.html",
             "title": "Garrison Mission Gear Tokens",
             "summary": "Turbulent, Tormented, Munificent, Formidable, Grandiose",
             "content_html": "<p>Turbulent, Tormented, Munificent, Formidable, Grandiose</p>",
@@ -38,8 +38,8 @@
             "date_modified": "2026-08-13T23:18:53+01:00"
         },
         {
-            "id": "https://wowcollector.github.com/WoW-Collector-Compendium/the-origin.html",
-            "url": "https://wowcollector.github.com/WoW-Collector-Compendium/the-origin.html",
+            "id": "https://wowcollector.github.io/WoW-Collector-Compendium/the-origin.html",
+            "url": "https://wowcollector.github.io/WoW-Collector-Compendium/the-origin.html",
             "title": "The Origin",
             "summary": "The first page.",
             "content_html": "\n  <p>\n    The first page.\n  </p>",
