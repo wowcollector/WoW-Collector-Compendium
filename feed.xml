@@ -3,7 +3,7 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-08-24T16:03:52+01:00</updated>
+    <updated>2026-08-24T16:05:56+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
@@ -380,7 +380,7 @@
 <tr style="height: 48.5625px;">
 <td style="width: 33.3809%; height: 48.5625px;">Tormented</td>
 <td style="width: 33.3809%; height: 48.5625px;">1 x 31-39*</td>
-<td style="width: 33.3809%; height: 48.5625px;"> </td>
+<td style="width: 33.3809%; height: 48.5625px;">Any</td>
 </tr>
 <tr style="height: 48.5625px;">
 <td style="width: 33.3809%; height: 48.5625px;">Munificent</td>
@@ -405,7 +405,7 @@
 <h2 id="mcetoc_1jvuq148i1dd">Turbulent Gear Tokens</h2>
 <p>In addition to the mission rewards, four of the following tokens can be awarded at random from the <a href="https://www.wowhead.com/item=118924/cache-of-arms#contains">https://www.wowhead.com/item=118924/cache-of-arms#contains</a>, a reward from the daily Garrison Inn quest <a href="https://www.wowhead.com/quest=37167/and-no-maces">https://www.wowhead.com/quest=37167/and-no-maces</a> :</p>
 <ul style="list-style-type: circle;">
-<li style="list-style-type: none">
+<li style="list-style-type: none;">
 <ul style="list-style-type: circle;">
 <li><a href="https://www.wowhead.com/item=114073/turbulent-hood">https://www.wowhead.com/item=114073/turbulent-hood</a></li>
 <li><a href="https://www.wowhead.com/item=114072/turbulent-gauntlets">https://www.wowhead.com/item=114072/turbulent-gauntlets</a></li>
@@ -414,7 +414,7 @@
 </ul>
 </li>
 </ul>
-<br>
+<p> </p>
 <h2 id="mcetoc_1jvuq148i1de">Grandiose Gear Tokens</h2>
 <p>Unfortunately, there are missions <strong>only</strong> for the following tokens:</p>
 <ul style="list-style-type: circle;">
