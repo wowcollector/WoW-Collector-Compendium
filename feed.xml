@@ -3,12 +3,76 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-08-24T16:15:44+01:00</updated>
+    <updated>2026-08-24T19:28:30+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
     <id>https://wowcollector.github.io/WoW-Collector-Compendium</id>
 
+    <entry>
+        <title>Salvage Yard Appearance Sources</title>
+        <author>
+            <name>Noxious</name>
+        </author>
+        <link href="https://wowcollector.github.io/WoW-Collector-Compendium/salvage-yard/"/>
+        <id>https://wowcollector.github.io/WoW-Collector-Compendium/salvage-yard/</id>
+
+        <updated>2026-08-24T19:26:53+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    The Level 3 https://www.wowhead.com/building=141/salvage-yard building in your Garrison can be a treasure trove of appearance sources that, other than Quantum tokens, cannot be acquired in any other way. The appearances themselves can be acquired by making a class trial for each class, if you're not&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The Level 3 <a href="https://www.wowhead.com/building=141/salvage-yard">https://www.wowhead.com/building=141/salvage-yard</a> building in your Garrison can be a treasure trove of appearance <strong>sources</strong> that, other than Quantum tokens, cannot be acquired in any other way. The appearances themselves can be acquired by making a class trial for each class, if you're not interested in collecting every source.</p>
+<p>These appearance sources have a chance to be acquired when salvaging <a href="https://www.wowhead.com/item=140590/large-crate-of-salvage#comments">https://www.wowhead.com/item=140590/large-crate-of-salvage#comments</a>, which are potential bonus rewards from Garrison missions. These:</p>
+<ul style="list-style-type: circle;">
+<li>Only drop while the Salvage Yard is built <strong>and</strong> level 3.</li>
+<li>Are <strong>not</strong> guaranteed rewards from missions, other than level 100 missions.</li>
+<li>Only have a chance to be rewarded from level 95-100 missions.</li>
+</ul>
+<p>Furthermore, they are not guaranteed to contain a cosmetic appearance. More commonly, they will contain Garrison Resources, various Warlords crafting reagents or follower upgrade tokens.</p>
+<blockquote>
+<p><span style="color: #e03e2d;">IMPORTANT! Do not spam-salvage these crates! Wait 2-4 seconds between each one! Salvaging them too quickly one after the other will eat your loot! Why? Spaghetti code.</span></p>
+</blockquote>
+<p>Consult your ATT list to see all available appearance sources (there's lots of them).</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/11/salvage-example.png" alt="Example of the possible outcomes from a Large Crate of Salvage for Warriors." width="509" height="210" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/11/responsive/salvage-example-xs.png 640w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/11/responsive/salvage-example-sm.png 768w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/11/responsive/salvage-example-md.png 1024w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/11/responsive/salvage-example-lg.png 1366w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/11/responsive/salvage-example-xl.png 1600w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/11/responsive/salvage-example-2xl.png 1920w">
+<figcaption><em>Example of the possible outcomes of a Large Crate of Salvage for Warriors.</em></figcaption>
+</figure>
+<h1>Unlocking the Salvage Yard</h1>
+<p><em>Yes</em>, if you wish to collect all these appearances, you'll need a Salvage Yard on all 11 classes that were in-game when Warlords launched. <em>Yes</em>, the Salvage Yard is the only level 1 building that you need to do a quest-line to unlock. <em>Of course it is</em>.</p>
+<p>To get the level 1 blueprints, <a href="https://www.wowhead.com/item=111957/salvage-yard-level-1">https://www.wowhead.com/item=111957/salvage-yard-level-1</a>, you need be at least level 30 and somehow make your way to Spires of Arak on Draenor. Then:</p>
+<ul style="list-style-type: circle;">
+<li>Travel to Pinchwhistle Gearworks and pick up the following 3 quests:
+<ul style="list-style-type: circle;">
+<li><a href="https://www.wowhead.com/quest=35077/defungination">https://www.wowhead.com/quest=35077/defungination</a> </li>
+<li><a href="https://www.wowhead.com/quest=35079/spore-be-gone">https://www.wowhead.com/quest=35079/spore-be-gone</a> </li>
+<li><a href="https://www.wowhead.com/quest=36179/unwanted-pests">https://www.wowhead.com/quest=36179/unwanted-pests</a> </li>
+</ul>
+</li>
+<li>Complete the quests, and continue the chain until you get <a href="https://www.wowhead.com/quest=35298/flame-on">https://www.wowhead.com/quest=35298/flame-on</a> </li>
+<li>Complete Flame on, congratulations, you have the blueprint. It took you 15 minutes. For 11 classes, you'll have spent 3 hours doing this.
+<ul style="list-style-type: circle;">
+<li>Bonus: You also unlock <a href="https://www.wowhead.com/quest=36062/kimzee-pinchwhistle#comments">https://www.wowhead.com/quest=36062/kimzee-pinchwhistle#comments</a>.</li>
+</ul>
+</li>
+<li>Go to the Garrison, start building the Salvage Yard level 1.</li>
+<li>Buy the <a href="https://www.wowhead.com/item=111976/salvage-yard-level-2">https://www.wowhead.com/item=111976/salvage-yard-level-2</a> blueprint from your Garrison Blueprints vendor, and upgrade your building when possible.</li>
+<li>Complete this achievement <a href="https://www.wowhead.com/achievement=9468/salvaging-pays-off">https://www.wowhead.com/achievement=9468/salvaging-pays-off</a> to unlock the blueprint for the level 3 Salvage Yard. You're finally done.
+<ul style="list-style-type: circle;">
+<li>You'll have to purchase the blueprint on subsequent characters.</li>
+</ul>
+</li>
+</ul>
+<h2>Optimized Collecting</h2>
+<p><em>The following content can be acquired on the side as part of this activity:</em></p>
+<ul style="list-style-type: circle;">
+<li><a href="https://wowcollector.github.io/WoW-Collector-Compendium/garrison-gear-tokens-2/">Garrison Gear Tokens</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Classic Instances</title>
         <author>
@@ -27,49 +91,24 @@
         <content type="html">
             <![CDATA[
                 <p>Usually, the best way to farm an instance these days is to send either your Druid or your Subtlety Rogue to zoom through at breakneck pace. However, if you're looking to collect everything, you won't be able to do it on a single character all the time!</p>
-<p>This page aims to show the <em>absolute minimum</em> amount of characters required to 100% an instance. It is assumed the goal is to collect <em>everything</em> that actually gives you something, so this includes appearance sources, even if you own the actual appearance. Furthermore, if something in these instances has an alternative acquisition source that is easier, it is assumed to be the preferred way to acquire said item and will likely not be mentioned here.</p>
+<p>This page aims to show the <em>absolute minimum</em> amount of characters required to 100% an instance. You will see lists for relevant instances mentioning items that have specifc, immutable requirements for collection - generally things that are bind-on-pickup (recipes), are class-restricted (some quest rewards, Illusions), or need to be equipped to grant something (Sulfuras and its accompanying achievement).</p>
+<p>You will not see an overly detailed list of <em>everything</em> available to collect. That's what ATT is for. This page exists to help you plan how to most efficiently collect everything in those instances, without having to figure it out yourself in-game!</p>
+<p>Lastly, if something has an easier acquisition source outside a particular instance, it will not be mentioned here.</p>
 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
 <li><a href="#mcetoc_1k002gau3va">Raids</a>
 <ul>
-<li><a href="#mcetoc_1k002gau3vb">Molten Core</a>
-<ul>
-<li><a href="#mcetoc_1k002gau3vc">Ideal Composition</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1k002gau3vd">Ruins of Ahn'Qiraj</a>
-<ul>
-<li><a href="#mcetoc_1k002gau3ve">Ideal Composition</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1k002gau3vf">Temple of Ahn'Qiraj</a>
-<ul>
-<li><a href="#mcetoc_1k002gau3vg">Ideal Composition</a></li>
-</ul>
-</li>
+<li><a href="#mcetoc_1k002gau3vb">Molten Core</a></li>
+<li><a href="#mcetoc_1k002gau3vd">Ruins of Ahn'Qiraj</a></li>
+<li><a href="#mcetoc_1k002gau3vf">Temple of Ahn'Qiraj</a></li>
 </ul>
 </li>
 <li><a href="#mcetoc_1k002gau3vh">Dungeons</a>
 <ul>
-<li><a href="#mcetoc_1k007j5bt16m">Blackrock Depths</a>
-<ul>
-<li><a href="#mcetoc_1k007j5bt16n">Ideal Composition</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1k007j5bt16o">Deadmines</a></li>
-<li><a href="#mcetoc_1k0lrf5lv13m">Dire Maul</a>
-<ul>
-<li><a href="#mcetoc_1k0lrf5lv13n">Ideal Composition</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1k0lrf5lv13o">Gnomeregan</a></li>
-<li><a href="#mcetoc_1k0lrf5lv13p">Lower Blackrock Spire</a></li>
-<li><a href="#mcetoc_1k0lrf5lv13q">Scarlet Halls</a></li>
-<li><a href="#mcetoc_1k0lrf5lv13r">Old Scholomance</a></li>
-<li><a href="#mcetoc_1k0lrf5lv13s">Stratholme</a></li>
-<li><a href="#mcetoc_1k0lrf5lv13t">The Temple of Atal'Hakkar (Sunken Temple)</a></li>
-<li><a href="#mcetoc_1k0lrf5lv13u">Zul'Farrak</a></li>
+<li><a href="#mcetoc_1k007j5bt16m">Blackrock Depths</a></li>
+<li><a href="#mcetoc_1k0lrf5lv13m">Dire Maul</a></li>
+<li><a href="#mcetoc_1k0qe3pfe8e">Singular Dungeon Requirements</a></li>
 </ul>
 </li>
 </ul>
@@ -77,40 +116,26 @@
 <h1 id="mcetoc_1k002gau3va">Raids</h1>
 <h2 id="mcetoc_1k002gau3vb">Molten Core</h2>
 <ul style="list-style-type: circle;">
-<li>Requires a minimum of 2-3 characters to fully complete.</li>
+<li><span style="color: #f1c40f;"><strong><span style="color: #f1c40f;">Classes</span></strong></span><strong>:</strong> Shaman</li>
+<li><span style="color: #f1c40f;"><strong><span style="color: #2dc26b;">Professions</span></strong></span><strong>:</strong> Leatherworking, Blacksmithing, Engineering</li>
+<li>Ideally a <strong>Warrior, Paladin</strong> or <strong>Death Knight</strong>, as they are capable of equipping <strong>both</strong> Legendary weapons whose parts drop here.</li>
 </ul>
-<p>There are four distinct loot restrictions in place:</p>
+<p>There are 4 distinct loot restrictions in place:</p>
 <ul style="list-style-type: circle;">
-<li>Bind-on-Pickup recipes for Leatherworking, Blacksmithing and Engineering.
-<ul style="list-style-type: circle;">
-<li>Reduce minimum requirement to 2 characters if a character has 2 of those recipes.</li>
-</ul>
-</li>
+<li>BoP recipes for Leatherworking, Blacksmithing and Engineering.</li>
 <li><a href="https://www.wowhead.com/item=138833/illusion-flametongue">https://www.wowhead.com/item=138833/illusion-flametongue</a> can only be learned by a Shaman.</li>
 <li><a href="https://www.wowhead.com/item=19019/thunderfury-blessed-blade-of-the-windseeke">https://www.wowhead.com/item=19019/thunderfury-blessed-blade-of-the-windseeker</a> can only be equipped by 9 classes.</li>
 <li><a href="https://www.wowhead.com/item=17182/sulfuras-hand-of-ragnaros">https://www.wowhead.com/item=17182/sulfuras-hand-of-ragnaros</a> can only be equipped by 6 classes.</li>
 </ul>
 <p>Naturally, for the low-drop nature of the items required to create the legendary weapons, running multiple eligible characters through Molten Core is advised.</p>
-<h3 id="mcetoc_1k002gau3vc">Ideal Composition</h3>
-<ul style="list-style-type: circle;">
-<li>A Shaman with Leatherworking.
-<ul style="list-style-type: circle;">
-<li>Will also be eligible for the Illusion and the Sulfuras legendary.</li>
-</ul>
-</li>
-<li>A Warrior, Paladin or Death Knight with Blacksmithing and Engineering.
-<ul style="list-style-type: circle;">
-<li>Will also be eligible for the Sulfuras and Thunderfury legendaries.</li>
-</ul>
-</li>
-</ul>
 <h2 id="mcetoc_1k002gau3vd">Ruins of Ahn'Qiraj</h2>
 <ul style="list-style-type: circle;">
-<li>Requires a minimum of 9 characters to fully complete.</li>
+<li><span style="color: #f1c40f;"><strong><span style="color: #f1c40f;">Classes</span></strong></span><strong>:</strong><span style="color: #f1c40f;"> </span>All the original classes from 2004.</li>
+<li><strong><span style="color: #2dc26b;">Professions</span>:</strong> Blacksmithing, Enchanting</li>
 </ul>
 <p>There are 3 distinct loot restrictions in place:</p>
 <ul style="list-style-type: circle;">
-<li>Each of the original Classic classes has 2 quests which award a Cloak and a Weapon. To complete these quests, quest items from the bosses in Ruins of Ahn'Qiraj are required.
+<li>Each of the original Classic classes has 2 quests which award a Cloak and a Weapon (class-restricted). To complete these quests, quest items from the bosses in Ruins of Ahn'Qiraj are required.
 <ul style="list-style-type: circle;">
 <li>To complete the Weapon quest, characters must be Exalted with the Cenarion Circle.</li>
 </ul>
@@ -126,18 +151,10 @@
 </ul>
 </li>
 </ul>
-<h3 id="mcetoc_1k002gau3ve">Ideal Composition</h3>
-<ul style="list-style-type: circle;">
-<li>One of each of the original classes: Mage, Priest, Warlock, Druid, Rogue, Hunter, Shaman, Paladin Warrior.
-<ul style="list-style-type: circle;">
-<li>One of these classes should be a Blacksmith.</li>
-<li>At least one of these classes should be an Enchanter.</li>
-</ul>
-</li>
-</ul>
 <h2 id="mcetoc_1k002gau3vf">Temple of Ahn'Qiraj</h2>
 <ul style="list-style-type: circle;">
-<li>Requires a minimum of 9 characters to fully complete.</li>
+<li><span style="color: #f1c40f;"><strong><span style="color: #f1c40f;">Classes</span></strong></span><strong>:</strong><span style="color: #f1c40f;"> </span>All the original classes from 2004.</li>
+<li><strong><span style="color: #2dc26b;">Professions</span>:</strong> Enchanting</li>
 </ul>
 <p>There are 3 distinct loot restrictions in place:</p>
 <ul style="list-style-type: circle;">
@@ -148,17 +165,12 @@
 </ul>
 </li>
 <li>The same Enchanting recipes in the <strong>Ruins</strong> <strong>of Ahn'Qiraj</strong> drop here as well, in the same manner.</li>
-<li>A class able to deal Frost damage and have quick attack speed to defeat <a href="https://www.wowhead.com/npc=15299/viscidus" target="_blank" rel="noopener noreferrer">Viscidus</a>.</li>
+<li>A class able to deal Frost damage and have quick attack speed to defeat <a href="https://www.wowhead.com/npc=15299/viscidus" target="_blank" rel="noopener noreferrer">Viscidus</a>*.</li>
 </ul>
 <p><em>There are also 2 quests to acquire Weapon appearances. These may be completed on any class and will award all other appearances from the quest.</em></p>
-<h3 id="mcetoc_1k002gau3vg">Ideal Composition</h3>
-<ul style="list-style-type: circle;">
-<li>One of each of the original classes: Mage, Priest, Warlock, Druid, Rogue, Hunter, Shaman, Paladin Warrior.<br>
-<ul style="list-style-type: circle;">
-<li>At least one of these classes should be an Enchanter.</li>
-</ul>
-</li>
-<li>A class that is able to deal Frost damage and have quick attack speed. Generally, this is one of the following:<br>
+<p>*<em>A class that is able to deal Frost damage and have quick attack speed. Generally, this is one of the following:</em></p>
+<ul>
+<li style="list-style-type: none;">
 <ul style="list-style-type: circle;">
 <li>A Rogue with a Weapon Enchant that deals Frost damage.</li>
 <li>A Frost Death Knight with two one-handed weapons equipped, though this raises the minimum character composition by 1.</li>
@@ -169,7 +181,7 @@
 <h1 id="mcetoc_1k002gau3vh">Dungeons</h1>
 <h2 id="mcetoc_1k007j5bt16m">Blackrock Depths</h2>
 <ul style="list-style-type: circle;">
-<li>Requires a minimum of 2-4 characters.</li>
+<li><span style="color: #2dc26b;"><strong><span style="color: #2dc26b;">Professions</span></strong></span>: Jewelcrafting, Enchanting, Blacksmithing, Alchemy</li>
 </ul>
 <p>There are 4 distinct loot restrictions in place:</p>
 <ul style="list-style-type: circle;">
@@ -179,24 +191,10 @@
 <li>A BoP Alchemy recipe that is sold by Plugger Spazzring</li>
 </ul>
 <p>Furthermore, the <a href="https://www.wowhead.com/faction=59/thorium-brotherhood" target="_blank" rel="noopener noreferrer">Thorium Brotherhood</a> quartermaster resides here. Getting reputation with them is easy (see link) and can be done through many avenues not directly related to this dungeon, so we won't cover that here. For reference, the following professions have recipes sold by the quartermaster: Enchanting, Leatherworking, Tailoring, Blacksmithing, Alchemy.</p>
-<h3 id="mcetoc_1k007j5bt16n">Ideal Composition</h3>
-<ul style="list-style-type: circle;">
-<li>A character with two of the required professions (for example Jewelcrafting and Blacksmithing)</li>
-<li>A character with the other two required professions (Jewelcrafting and Enchanting)</li>
-<li>Usually, players do not pick any these professions together, so generally you are looking at 4 characters to 100% Blackrock Depths.</li>
-</ul>
-<h2 id="mcetoc_1k007j5bt16o">Deadmines</h2>
-<ul style="list-style-type: circle;">
-<li>Requires a minimum of 1 Rogue.</li>
-</ul>
-<p>There are 1-2 distinct loot restrictions in place:</p>
-<ul style="list-style-type: circle;">
-<li>The <a href="https://www.wowhead.com/quest=44930/deadmines-seain-red">https://www.wowhead.com/quest=44930/deadmines-seain-red</a> quest and cosmetic ensemble reward can only be completed by an Outlaw Rogue that owns the <a href="https://www.wowhead.com/item=8492/parrot-cage-green-wing-macaw">https://www.wowhead.com/item=8492/parrot-cage-green-wing-macaw</a> pet.</li>
-</ul>
-<p>The <a href="https://www.wowhead.com/item=120138/tome-of-polymorph-monkey#comments">https://www.wowhead.com/item=120138/tome-of-polymorph-monkey#comments</a> has a chance to drop from Mining Monkey enemies, but only drops for Mages. This item can also drop from Hozen in various spots around Pandaria, and may be easier to acquire there (see WoWhead comments).</p>
 <h2 id="mcetoc_1k0lrf5lv13m">Dire Maul</h2>
 <ul style="list-style-type: circle;">
-<li>Requires a minimum of 1-4 characters, one of which has to be a Warlock.</li>
+<li><span style="color: #f1c40f;"><strong><span style="color: #f1c40f;">Classes</span></strong></span><strong>:</strong><span style="color: #f1c40f;"><strong><span style="color: #f1c40f;"><span style="color: #000000;"> </span></span></strong><span style="color: #f1c40f;"><span style="color: #000000;">Warlock</span></span></span></li>
+<li><strong><span style="color: #2dc26b;">Professions</span>:</strong> Leatherworking, Tailoring, Cooking</li>
 </ul>
 <p>There are 4 distinct loot restrictions in place:</p>
 <ul style="list-style-type: circle;">
@@ -204,40 +202,75 @@
 <li>Pusilin also drops <a href="https://www.wowhead.com/item=18267/recipe-runn-tum-tuber-surprise">https://www.wowhead.com/item=18267/recipe-runn-tum-tuber-surprise</a>, a BoP Cooking recipe.</li>
 <li><a href="https://www.wowhead.com/npc=14338/knot-thimblejack">https://www.wowhead.com/npc=14338/knot-thimblejack</a> teaches <a href="https://www.wowhead.com/spell=22813/gordok-ogre-suit">https://www.wowhead.com/spell=22813/gordok-ogre-suit</a> for Tailors and <a href="https://www.wowhead.com/spell=22815/gordok-ogre-suit">https://www.wowhead.com/spell=22815/gordok-ogre-suit</a> (again) for Leatherworkers.</li>
 </ul>
-<h3 id="mcetoc_1k0lrf5lv13n">Ideal Composition</h3>
-<ul style="list-style-type: circle;">
-<li>A Warlock with Classic Tailoring and Classic Cooking.</li>
-<li>Another character with Classic Leatherworking.</li>
-</ul>
-<h2 id="mcetoc_1k0lrf5lv13o">Gnomeregan</h2>
-<ul style="list-style-type: circle;">
-<li>Requires an Engineer.</li>
-</ul>
-<p><a href="https://www.wowhead.com/item=11828/schematic-pet-bombling">https://www.wowhead.com/item=11828/schematic-pet-bombling</a> is BoP and drops from the last boss of the dungeon.</p>
-<h2 id="mcetoc_1k0lrf5lv13p">Lower Blackrock Spire</h2>
-<ul style="list-style-type: circle;">
-<li>Requires a Jewelcrafter.</li>
-</ul>
-<p><a href="https://www.wowhead.com/item=21955/design-black-diamond-crab">https://www.wowhead.com/item=21955/design-black-diamond-crab</a> is BoP and drops from <a href="https://www.wowhead.com/npc=9736/quartermaster-zigris">https://www.wowhead.com/npc=9736/quartermaster-zigris</a>.</p>
-<h2 id="mcetoc_1k0lrf5lv13q">Scarlet Halls</h2>
-<ul style="list-style-type: circle;">
-<li>Requires at least 2 characters - 1 Mail, 1 Plate.</li>
-</ul>
-<p><a href="https://www.wowhead.com/item=23192/tabard-of-the-scarlet-crusade">https://www.wowhead.com/item=23192/tabard-of-the-scarlet-crusade</a> (BoP) drops from <a href="https://www.wowhead.com/npc=58632/armsmaster-harlan">https://www.wowhead.com/npc=58632/armsmaster-harlan</a> and is required to access <a href="https://www.wowhead.com/npc=108785/scarlet-quartermaster">https://www.wowhead.com/npc=108785/scarlet-quartermaster</a> during Darkmoon Faire, which sells 2 ensembles only learnable by Mail and Plate classes, respectively.</p>
-<h2 id="mcetoc_1k0lrf5lv13r">Old Scholomance</h2>
-<p>Requires 1 character with Classic Tailoring to learn <a href="https://www.wowhead.com/spell=26086/felcloth-bag#comments">https://www.wowhead.com/spell=26086/felcloth-bag#comments</a> from a book that spawns on the floor after defeating <a href="https://www.wowhead.com/npc=10503/jandice-barov">https://www.wowhead.com/npc=10503/jandice-barov</a>. <br><br></p>
-<h2 id="mcetoc_1k0lrf5lv13s">Stratholme</h2>
-<ul style="list-style-type: circle;">
-<li>Requires 1 Blacksmith to farm Banshees on the Service Entrance side for <a href="https://www.wowhead.com/item=74274/plans-phantom-blade#dropped-by;mode:none">https://www.wowhead.com/item=74274/plans-phantom-blade#dropped-by;mode:none</a> </li>
-</ul>
-<h2 id="mcetoc_1k0lrf5lv13t">The Temple of Atal'Hakkar (Sunken Temple)</h2>
-<p>Requires 1 Leatherworker to farm the following Zone Drop BoP recipes:</p>
-<ul style="list-style-type: circle;">
-<li><a href="https://www.wowhead.com/item=78346/pattern-green-dragonscale-breastplate">https://www.wowhead.com/item=78346/pattern-green-dragonscale-breastplate</a></li>
-<li><a href="https://www.wowhead.com/item=78345/pattern-green-dragonscale-leggings">https://www.wowhead.com/item=78345/pattern-green-dragonscale-leggings</a></li>
-</ul>
-<h2 id="mcetoc_1k0lrf5lv13u">Zul'Farrak</h2>
-<p>Requires 1 character that can wield 1H (and possibly 2H) swords to equip <a href="https://www.wowhead.com/item=9379/sangthraze-the-deflector?bonus=6710">https://www.wowhead.com/item=9379/sangthraze-the-deflector?bonus=6710</a> and <a href="https://www.wowhead.com/item=11086/jangthraze-the-protector?bonus=6710">https://www.wowhead.com/item=11086/jangthraze-the-protector?bonus=6710</a> in order to activate their Use effect and acquire <a href="https://www.wowhead.com/item=9372/sulthraze-the-lasher?bonus=6712">https://www.wowhead.com/item=9372/sulthraze-the-lasher?bonus=6712</a>. </p>
+<h2 id="mcetoc_1k0qe3pfe8e">Small Dungeon Requirements</h2>
+<p>The following table lists dungeons that have few things to collect that are restricted in some way:</p>
+<table class="wiki-table" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 10.5904%;"><strong>DUNGEON</strong></td>
+<td class="align-center" style="width: 14.8575%;"><strong>REQUIREMENT</strong></td>
+<td class="align-center" style="width: 37.3511%;"><strong>THING TO COLLECT</strong></td>
+<td class="align-center" style="width: 37.269%;"><strong>SOURCE</strong></td>
+</tr>
+<tr>
+<td style="width: 10.5904%;">Deadmines</td>
+<td style="width: 14.8575%;">Outlaw Rogue</td>
+<td style="width: 37.3511%;"><a href="https://www.wowhead.com/quest=44930/deadmines-seain-red">https://www.wowhead.com/quest=44930/deadmines-seain-red</a></td>
+<td style="width: 37.269%;">Secret pirate.</td>
+</tr>
+<tr>
+<td style="width: 10.5904%;">Gnomeregan</td>
+<td style="width: 14.8575%;">Engineer</td>
+<td style="width: 37.3511%;"><a href="https://www.wowhead.com/item=11828/schematic-pet-bombling">https://www.wowhead.com/item=11828/schematic-pet-bombling</a></td>
+<td style="width: 37.269%;"><a href="https://www.wowhead.com/npc=7800/mekgineer-thermaplugg">https://www.wowhead.com/npc=7800/mekgineer-thermaplugg</a> </td>
+</tr>
+<tr>
+<td style="width: 10.5904%;">Lower Blackrock Spire</td>
+<td style="width: 14.8575%;">Jewelcrafter</td>
+<td style="width: 37.3511%;"><a href="https://www.wowhead.com/item=21955/design-black-diamond-crab">https://www.wowhead.com/item=21955/design-black-diamond-crab</a></td>
+<td style="width: 37.269%;"><a href="https://www.wowhead.com/npc=9736/quartermaster-zigris">https://www.wowhead.com/npc=9736/quartermaster-zigris</a></td>
+</tr>
+<tr>
+<td style="width: 10.5904%;">Scarlet Halls*</td>
+<td style="width: 14.8575%;">Mail Character</td>
+<td style="width: 37.3511%;"><a href="https://www.wowhead.com/item=23192/tabard-of-the-scarlet-crusade">https://www.wowhead.com/item=23192/tabard-of-the-scarlet-crusade</a> </td>
+<td style="width: 37.269%;"><a href="https://www.wowhead.com/npc=58632/armsmaster-harlan">https://www.wowhead.com/npc=58632/armsmaster-harlan</a></td>
+</tr>
+<tr>
+<td style="width: 10.5904%;">Scarlet Halls*</td>
+<td style="width: 14.8575%;">Plate Character</td>
+<td style="width: 37.3511%;"><a href="https://www.wowhead.com/item=23192/tabard-of-the-scarlet-crusade">https://www.wowhead.com/item=23192/tabard-of-the-scarlet-crusade</a> </td>
+<td style="width: 37.269%;"><a href="https://www.wowhead.com/npc=58632/armsmaster-harlan">https://www.wowhead.com/npc=58632/armsmaster-harlan</a></td>
+</tr>
+<tr>
+<td style="width: 10.5904%;">Old Scholomance</td>
+<td style="width: 14.8575%;">Tailor</td>
+<td style="width: 37.3511%;"><a href="https://www.wowhead.com/spell=26086/felcloth-bag#comments">https://www.wowhead.com/spell=26086/felcloth-bag#comments</a></td>
+<td style="width: 37.269%;"><a href="https://www.wowhead.com/npc=10503/jandice-barov">https://www.wowhead.com/npc=10503/jandice-barov</a></td>
+</tr>
+<tr>
+<td style="width: 10.5904%;">Stratholme (Service Entrance)</td>
+<td style="width: 14.8575%;">Blacksmith</td>
+<td style="width: 37.3511%;"><a href="https://www.wowhead.com/item=74274/plans-phantom-blade#dropped-by;mode:none">https://www.wowhead.com/item=74274/plans-phantom-blade#dropped-by;mode:none</a></td>
+<td style="width: 37.269%;">Banshees (Zone Drop)</td>
+</tr>
+<tr>
+<td style="width: 10.5904%;">Temple of Atal'Hakkar</td>
+<td style="width: 14.8575%;">Leatherworker</td>
+<td style="width: 37.3511%;">
+<p><a href="https://www.wowhead.com/item=78346/pattern-green-dragonscale-breastplate">https://www.wowhead.com/item=78346/pattern-green-dragonscale-breastplate</a><br><a href="https://www.wowhead.com/item=78345/pattern-green-dragonscale-leggings">https://www.wowhead.com/item=78345/pattern-green-dragonscale-leggings</a></p>
+</td>
+<td style="width: 37.269%;">Zone Drop</td>
+</tr>
+<tr>
+<td style="width: 10.5904%;">Zul'Farrak</td>
+<td style="width: 14.8575%;">1H Sword wielder</td>
+<td style="width: 37.3511%;"><a href="https://www.wowhead.com/item=9372/sulthraze-the-lasher?bonus=6712">https://www.wowhead.com/item=9372/sulthraze-the-lasher?bonus=6712</a></td>
+<td style="width: 37.269%;"><a href="https://www.wowhead.com/item=11086/jangthraze-the-protector?bonus=6710">https://www.wowhead.com/item=11086/jangthraze-the-protector?bonus=6710</a><br><a href="https://www.wowhead.com/item=9379/sangthraze-the-deflector?bonus=6710">https://www.wowhead.com/item=9379/sangthraze-the-deflector?bonus=6710</a> </td>
+</tr>
+</tbody>
+</table>
+<p><em>*The tabard allows access to <a href="https://www.wowhead.com/npc=108785/scarlet-quartermaster">https://www.wowhead.com/npc=108785/scarlet-quartermaster</a> during the Darkmoon Faire, which sells 2 ensembles only learnable by Mail (<a href="https://www.wowhead.com/item=138430/ensemble-chain-of-the-scarlet-crusade">https://www.wowhead.com/item=138430/ensemble-chain-of-the-scarlet-crusade</a>) and Plate (<a href="https://www.wowhead.com/item=138431/ensemble-scale-of-the-scarlet-crusade">https://www.wowhead.com/item=138431/ensemble-scale-of-the-scarlet-crusade</a>) classes.</em></p>
             ]]>
         </content>
     </entry>
@@ -321,7 +354,7 @@
 <tr style="height: 75.5625px;">
 <td style="width: 20.0681%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114101/tormented-girdle">https://www.wowhead.com/item=114101/tormented-girdle</a> (31)</td>
 <td style="width: 20.1131%; height: 75.5625px;"><em>Doesn't exist.</em></td>
-<td style="width: 19.5731%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114076/turbulent-girdle">https://www.wowhead.com/item=114076/turbulent-girdle</a> </td>
+<td style="width: 19.5731%; height: 75.5625px;"><em>Exists, never implemented.</em></td>
 <td style="width: 17.9988%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119120/grandiose-girdle">https://www.wowhead.com/item=119120/grandiose-girdle</a> </td>
 <td style="width: 22.1823%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119121/formidable-girdle">https://www.wowhead.com/item=119121/formidable-girdle</a> </td>
 </tr>
@@ -342,7 +375,7 @@
 <tr style="height: 75.5625px;">
 <td style="width: 20.0681%; height: 75.5625px;"><em>Doesn't exist.</em></td>
 <td style="width: 20.1131%; height: 75.5625px;"><em>Doesn't exist.</em></td>
-<td style="width: 19.5731%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114077/turbulent-ring">https://www.wowhead.com/item=114077/turbulent-ring</a> </td>
+<td style="width: 19.5731%; height: 75.5625px;"><em>Exists, never implemented.</em></td>
 <td style="width: 17.9988%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119122/grandiose-ring">https://www.wowhead.com/item=119122/grandiose-ring</a> </td>
 <td style="width: 22.1823%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119123/formidable-ring">https://www.wowhead.com/item=119123/formidable-ring</a> </td>
 </tr>
@@ -383,12 +416,12 @@
 </tr>
 <tr style="height: 48.5625px;">
 <td style="width: 33.3809%; height: 48.5625px;"><strong>Munificent</strong></td>
-<td style="width: 33.3809%; height: 48.5625px;">(maybe) 3 x 615+</td>
+<td style="width: 33.3809%; height: 48.5625px;"> </td>
 <td style="width: 33.3809%; height: 48.5625px;">44 or lower**</td>
 </tr>
 <tr style="height: 48.5625px;">
 <td style="width: 33.3809%; height: 48.5625px;"><strong>Turbulent</strong></td>
-<td style="width: 33.3809%; height: 48.5625px;">3 x 630+</td>
+<td style="width: 33.3809%; height: 48.5625px;">3 x 615+ OR 630+</td>
 <td style="width: 33.3809%; height: 48.5625px;">44 or lower**</td>
 </tr>
 <tr style="height: 48.5625px;">
@@ -399,8 +432,9 @@
 </tbody>
 </table>
 <p><em>*See the first table on the page, in which the Tormented items have a number next to them. In order for their mission to spawn, you must have a follower of that <strong>exact level</strong> active in your Mission Table.<br></em>**<em>This terribly low item level can be achieved by either leveling a new character and keeping it below the threshold, or deleting gear on a high-level character. Note that keeping gear in bags will not work, as that is also included in the calculation.</em></p>
+<p>In addition, it seems more likely that missions spawn the more followers you have. It is unknown at this time whether more followers of a specific level results in more chances of missions <em>of that specific level</em> spawning.</p>
 <h2 id="mcetoc_1jvuq148i1dd">Turbulent Gear Tokens</h2>
-<p>In addition to the mission rewards, four of the following tokens can be awarded at random from the <a href="https://www.wowhead.com/item=118924/cache-of-arms#contains">https://www.wowhead.com/item=118924/cache-of-arms#contains</a>, a reward from the daily Garrison Inn quest <a href="https://www.wowhead.com/quest=37167/and-no-maces">https://www.wowhead.com/quest=37167/and-no-maces</a> :</p>
+<p>The following four tokens can <strong>only</strong> be acquired at random from the <a href="https://www.wowhead.com/item=118924/cache-of-arms#contains">https://www.wowhead.com/item=118924/cache-of-arms#contains</a>, a reward from the daily Garrison Inn quest <a href="https://www.wowhead.com/quest=37167/and-no-maces">https://www.wowhead.com/quest=37167/and-no-maces</a> :</p>
 <ul style="list-style-type: circle;">
 <li><a href="https://www.wowhead.com/item=114073/turbulent-hood">https://www.wowhead.com/item=114073/turbulent-hood</a></li>
 <li><a href="https://www.wowhead.com/item=114072/turbulent-gauntlets">https://www.wowhead.com/item=114072/turbulent-gauntlets</a></li>
@@ -457,9 +491,8 @@
 <h2 id="mcetoc_1jvuq148i1dh">Optimized Collecting</h2>
 <p><em>The following content can be acquired on the side as part of this activity:</em></p>
 <ul style="list-style-type: circle;">
-<li>Link to page about the Salvage Yard transmogs.</li>
+<li><a href="https://wowcollector.github.io/WoW-Collector-Compendium/salvage-yard/"></a><a href="https://wowcollector.github.io/WoW-Collector-Compendium/salvage-yard/">Salvage Yard Appearance Sources</a></li>
 </ul>
-<p> </p>
 <p> </p>
 <p> </p>
 <p><em>Credits to <a href="https://discordapp.com/channels/242423099184775169/1261741961132507166" title="External link (Discord)" target="_blank" rel="noopener noreferrer">Kyros Krane and Yunim</a> for the research!</em></p>
