@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://wowcollector.github.io/WoW-Collector-Compendium/addons-2/",
+            "url": "https://wowcollector.github.io/WoW-Collector-Compendium/addons-2/",
+            "title": "ADDONS",
+            "summary": "ATT the new rarity one can i mog it? rarescanner or the alternative altoholic betterfishing better wardrobe and transmog blizzmove buggrabber, bugsack, bugsackblock lmao capping battleground timers (for pvp achievements) CheapMog extraquestbutton buncha handynotes instance achievement tracker krowi's achievement filter minimal archaeology? a lil buggy&hellip;",
+            "content_html": "<p>ATT</p>\n<p>the new rarity one</p>\n<p>can i mog it?</p>\n<p>rarescanner or the alternative</p>\n<p>altoholic</p>\n<p>betterfishing</p>\n<p>better wardrobe and transmog</p>\n<p>blizzmove</p>\n<p>buggrabber, bugsack, bugsackblock lmao</p>\n<p>capping battleground timers (for pvp achievements)</p>\n<p>CheapMog</p>\n<p>extraquestbutton</p>\n<p>buncha handynotes</p>\n<p>instance achievement tracker</p>\n<p>krowi's achievement filter</p>\n<p>minimal archaeology? a lil buggy but nice</p>\n<p>npc time</p>\n<p>plumber</p>\n<p>remix artifact tracker?</p>\n<p>tomtom</p>\n<p>weeklyknowledge</p>\n<p> </p>",
+            "author": {
+                "name": "Noxious"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-24T19:40:31+01:00",
+            "date_modified": "2026-08-24T19:40:31+01:00"
+        },
+        {
             "id": "https://wowcollector.github.io/WoW-Collector-Compendium/salvage-yard/",
             "url": "https://wowcollector.github.io/WoW-Collector-Compendium/salvage-yard/",
             "title": "Salvage Yard Appearance Sources",

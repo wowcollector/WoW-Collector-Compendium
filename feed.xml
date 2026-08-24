@@ -3,12 +3,53 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-08-24T19:33:21+01:00</updated>
+    <updated>2026-08-24T19:40:31+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
     <id>https://wowcollector.github.io/WoW-Collector-Compendium</id>
 
+    <entry>
+        <title>ADDONS</title>
+        <author>
+            <name>Noxious</name>
+        </author>
+        <link href="https://wowcollector.github.io/WoW-Collector-Compendium/addons-2/"/>
+        <id>https://wowcollector.github.io/WoW-Collector-Compendium/addons-2/</id>
+
+        <updated>2026-08-24T19:40:31+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    ATT the new rarity one can i mog it? rarescanner or the alternative altoholic betterfishing better wardrobe and transmog blizzmove buggrabber, bugsack, bugsackblock lmao capping battleground timers (for pvp achievements) CheapMog extraquestbutton buncha handynotes instance achievement tracker krowi's achievement filter minimal archaeology? a lil buggy&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ATT</p>
+<p>the new rarity one</p>
+<p>can i mog it?</p>
+<p>rarescanner or the alternative</p>
+<p>altoholic</p>
+<p>betterfishing</p>
+<p>better wardrobe and transmog</p>
+<p>blizzmove</p>
+<p>buggrabber, bugsack, bugsackblock lmao</p>
+<p>capping battleground timers (for pvp achievements)</p>
+<p>CheapMog</p>
+<p>extraquestbutton</p>
+<p>buncha handynotes</p>
+<p>instance achievement tracker</p>
+<p>krowi's achievement filter</p>
+<p>minimal archaeology? a lil buggy but nice</p>
+<p>npc time</p>
+<p>plumber</p>
+<p>remix artifact tracker?</p>
+<p>tomtom</p>
+<p>weeklyknowledge</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Salvage Yard Appearance Sources</title>
         <author>
