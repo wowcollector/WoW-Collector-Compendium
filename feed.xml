@@ -3,7 +3,7 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-08-24T16:05:56+01:00</updated>
+    <updated>2026-08-24T16:09:54+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
@@ -292,7 +292,7 @@
 </tr>
 <tr style="height: 75.5625px;">
 <td style="width: 20.0681%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114097/tormented-gauntlets">https://www.wowhead.com/item=114097/tormented-gauntlets</a> (37)</td>
-<td style="width: 20.1131%; height: 75.5625px;"><em>Exists, never implemented. Quantum-only.</em></td>
+<td style="width: 20.1131%; height: 75.5625px;"><em>Exists, never implemented.</em></td>
 <td style="width: 19.5731%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114072/turbulent-gauntlets">https://www.wowhead.com/item=114072/turbulent-gauntlets</a> </td>
 <td style="width: 17.9988%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119114/grandiose-gauntlets">https://www.wowhead.com/item=119114/grandiose-gauntlets</a> </td>
 <td style="width: 22.1823%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119115/formidable-gauntlets">https://www.wowhead.com/item=119115/formidable-gauntlets</a> </td>
@@ -370,30 +370,30 @@
 </div>
 <h2>Mission Spawning Requirements</h2>
 <p>Each type of mission, and sometimes each mission itself, has different requirements to be spawned. See the table below:</p>
-<table style="border-collapse: collapse; width: 100%; height: 296.812px;" border="1">
+<table class="wiki-table" style="border-collapse: collapse; width: 100%; height: 296.812px;" border="1">
 <tbody>
 <tr style="height: 102.562px;">
-<td style="width: 33.3809%; height: 102.562px;">Token Type</td>
-<td style="width: 33.3809%; height: 102.562px;">Follower amount and level</td>
-<td style="width: 33.3809%; height: 102.562px;">Player item level</td>
+<td style="width: 33.3809%; height: 102.562px;"><strong>Token Type</strong></td>
+<td style="width: 33.3809%; height: 102.562px;"><strong>Follower amount and level</strong></td>
+<td style="width: 33.3809%; height: 102.562px;"><strong>Player item level</strong></td>
 </tr>
 <tr style="height: 48.5625px;">
-<td style="width: 33.3809%; height: 48.5625px;">Tormented</td>
+<td style="width: 33.3809%; height: 48.5625px;"><strong>Tormented</strong></td>
 <td style="width: 33.3809%; height: 48.5625px;">1 x 31-39*</td>
 <td style="width: 33.3809%; height: 48.5625px;">Any</td>
 </tr>
 <tr style="height: 48.5625px;">
-<td style="width: 33.3809%; height: 48.5625px;">Munificent</td>
+<td style="width: 33.3809%; height: 48.5625px;"><strong>Munificent</strong></td>
 <td style="width: 33.3809%; height: 48.5625px;">(maybe) 3 x 615+</td>
 <td style="width: 33.3809%; height: 48.5625px;">44 or lower**</td>
 </tr>
 <tr style="height: 48.5625px;">
-<td style="width: 33.3809%; height: 48.5625px;">Turbulent</td>
+<td style="width: 33.3809%; height: 48.5625px;"><strong>Turbulent</strong></td>
 <td style="width: 33.3809%; height: 48.5625px;">3 x 630+</td>
 <td style="width: 33.3809%; height: 48.5625px;">44 or lower**</td>
 </tr>
 <tr style="height: 48.5625px;">
-<td style="width: 33.3809%; height: 48.5625px;">Grandiose</td>
+<td style="width: 33.3809%; height: 48.5625px;"><strong>Grandiose</strong></td>
 <td style="width: 33.3809%; height: 48.5625px;">3 x 640+</td>
 <td style="width: 33.3809%; height: 48.5625px;">44 or lower**</td>
 </tr>
