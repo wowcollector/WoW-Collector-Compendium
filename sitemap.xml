@@ -5,10 +5,6 @@
 <loc>https://wowcollector.github.io/WoW-Collector-Compendium/</loc>
 </url>
 <url>
-<loc>https://wowcollector.github.io/WoW-Collector-Compendium/addons/</loc>
-<lastmod>2026-08-14T01:47:18+01:00</lastmod>
-</url>
-<url>
 <loc>https://wowcollector.github.io/WoW-Collector-Compendium/addons-2/</loc>
 <lastmod>2026-08-24T19:40:31+01:00</lastmod>
 </url>
@@ -17,16 +13,23 @@
 <lastmod>2026-08-24T19:33:21+01:00</lastmod>
 </url>
 <url>
+<loc>https://wowcollector.github.io/WoW-Collector-Compendium/covenant-farming/</loc>
+<lastmod>2026-08-28T18:26:43+01:00</lastmod>
+</url>
+<url>
 <loc>https://wowcollector.github.io/WoW-Collector-Compendium/garrison-gear-tokens-2/</loc>
-<lastmod>2026-08-24T19:27:51+01:00</lastmod>
+<lastmod>2026-08-27T12:12:23+01:00</lastmod>
 </url>
 <url>
 <loc>https://wowcollector.github.io/WoW-Collector-Compendium/home/</loc>
 <lastmod>2026-08-14T02:12:34+01:00</lastmod>
 </url>
 <url>
+<loc>https://wowcollector.github.io/WoW-Collector-Compendium/page/2/</loc>
+</url>
+<url>
 <loc>https://wowcollector.github.io/WoW-Collector-Compendium/salvage-yard/</loc>
-<lastmod>2026-08-24T19:29:28+01:00</lastmod>
+<lastmod>2026-08-28T18:26:51+01:00</lastmod>
 <image:image>
 <image:loc>https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/11/salvage-example.png</image:loc>
 <image:title><![CDATA[Example of the possible outcomes from a Large Crate of Salvage for Warriors.]]></image:title>
@@ -35,9 +38,5 @@
 <url>
 <loc>https://wowcollector.github.io/WoW-Collector-Compendium/the-origin/</loc>
 <lastmod>2026-08-14T01:51:55+01:00</lastmod>
-</url>
-<url>
-<loc>https://wowcollector.github.io/WoW-Collector-Compendium/warlords-of-draenor/</loc>
-<lastmod>2026-08-13T23:23:57+01:00</lastmod>
 </url>
 </urlset>
