@@ -3,7 +3,7 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-08-28T18:26:51+01:00</updated>
+    <updated>2026-08-30T21:20:11+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
@@ -21,77 +21,7 @@
         <updated>2026-08-28T18:04:38+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    <p>Farming everything you can get from Covenants is a headache. First of all, there's <strong>a lot</strong> to get. Then, it's really only efficient to have a character focus on one Covenant, considering the investment required to upgrade buildings (which increase your anima gain form various forms of content). Then, there's even more - items that only drop for certain specs, ensembles that can only be learned by some classes, and then items that can be acquired from more than one covenant, but which one does it the easiest?</p>
-<p>Where to even begin?</p>
-<h1 id="mcetoc_1k14enp4m1a">General Overview</h1>
-<p>Let's try and classify the different type of loot restrictions we have to deal with:</p>
-<ul style="list-style-type: circle;">
-<li>Loot dropping from various building content, such as the Anima Conductor or the Transport Network, can be armor type-restricted or spec-restricted.</li>
-<li>Lots of stuff dropping from The Avowed content in Revendreth (with several kinds of restrictions) can more easily be farmed by a Venthyr character with a built up Ember Court.</li>
-<li>Some Ensembles (like the Court of Night ones) require both the appropriate armor class and being a Night Fae Covenant member to learn.</li>
-</ul>
-<p>In an ideal world, you'd have all 12 Shadowlands classes for each Covenant and just take it from there, but that's not only excessive but extremely boring to set up. Thus, to try and simplify this, this guide will break down <strong>everything</strong> that requires a specific class or spec or armor type. See the table below for a summary of where you should send who, and read further below to get an overview of all content that has those restrictions.</p>
-<p>The following table is ordered by how much a class can farm from a Covenant. It does not take into account systems like the Abomination Factory of the Venthyr's Transport Network, which requires 4 characters to complete in full, though it does for example consider the 4 daggers from the Transport Network. It was created with the following considerations:</p>
-<ul style="list-style-type: circle;">
-<li>The 1st choice can farm the most loot-restricted content. It is the character to invest the most Anima on, for buildings and such.</li>
-<li>The 2nd choice always has access to some loot-restricted content.</li>
-<li>The 3rd and 4th choices either also have access to some loot-restricted content, or are just there to fill in an armor class requirement. In some cases, the 3rd and 4th choices are of equal relevance.</li>
-</ul>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 19.9698%;"> </td>
-<td style="width: 19.9698%;"><strong>KYRIAN</strong></td>
-<td style="width: 19.9698%;"><strong>NECROLORD</strong></td>
-<td style="width: 19.9698%;"><strong>NIGHT FAE</strong></td>
-<td style="width: 19.9786%;"><strong>VENTHYR</strong></td>
-</tr>
-<tr>
-<td style="width: 19.9698%;"><strong>1ST CHOICE</strong></td>
-<td style="width: 19.9698%;"><span style="color: #a57a3b;">Warrior</span></td>
-<td style="width: 19.9698%;"><span style="color: #fe4fe2;">Paladin</span></td>
-<td style="width: 19.9698%;">Any Plate</td>
-<td style="width: 19.9786%;"><span style="color: #f1c40f;">Rogue</span></td>
-</tr>
-<tr>
-<td style="width: 19.9698%;"><strong>2ND CHOICE</strong></td>
-<td style="width: 19.9698%;"><span style="color: #3598db;">Shaman</span></td>
-<td style="width: 19.9698%;">Any Cloth</td>
-<td style="width: 19.9698%;"><span style="color: #44f2e4;">Monk</span></td>
-<td style="width: 19.9786%;"><span style="color: #3598db;">Shaman</span> / <span style="color: #0090b1;">Evoker</span></td>
-</tr>
-<tr>
-<td style="width: 19.9698%;"><strong>3RD CHOICE</strong></td>
-<td style="width: 19.9698%;">Any Leather</td>
-<td style="width: 19.9698%;"><span style="color: #3598db;">Shaman</span> / <span style="color: #0090b1;">Evoker</span></td>
-<td style="width: 19.9698%;"><span style="color: #f88119;">Druid</span></td>
-<td style="width: 19.9786%;">Any Cloth</td>
-</tr>
-<tr>
-<td style="width: 19.9698%;"><strong>4TH CHOICE</strong></td>
-<td style="width: 19.9698%;">Any Cloth</td>
-<td style="width: 19.9698%;"><span style="color: #44f2e4;">Monk</span> / <span style="color: #f88119;">Druid</span></td>
-<td style="width: 19.9698%;">Any Cloth</td>
-<td style="width: 19.9786%;">Any Plate</td>
-</tr>
-</tbody>
-</table>
-<div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1k14enp4m1a">General Overview</a></li>
-<li><a href="#mcetoc_1k14enp4m1b">The Kyrian</a></li>
-<li><a href="#mcetoc_1k14la2hu1jd">The Necrolords</a></li>
-<li><a href="#mcetoc_1k14la2hu1je">Night Fae</a></li>
-<li><a href="#mcetoc_1k14la2hu1jf">Venthyr</a>
-<ul>
-<li><a href="#mcetoc_1k14la2hu1jg">The Ember Court &amp; The Avowed</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1k14la2hu1jh">Other Considerations</a></li>
-</ul>
-</div>
-
+                    Farming everything you can get from Covenants is a headache. First of all, there's a lot to get. Then, it's really only efficient to have a character focus on one Covenant, considering the investment required to upgrade buildings (which increase your anima gain form various forms&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -166,7 +96,6 @@
 <li><a href="#mcetoc_1k14la2hu1jh">Other Considerations</a></li>
 </ul>
 </div>
-
 <h1 id="mcetoc_1k14enp4m1b">The Kyrian</h1>
 <ul style="list-style-type: circle;">
 <li><strong>Anima Conductor</strong>
