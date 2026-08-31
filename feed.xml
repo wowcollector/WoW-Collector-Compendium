@@ -3,7 +3,7 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-08-31T14:43:54+01:00</updated>
+    <updated>2026-08-31T14:45:25+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
@@ -677,6 +677,13 @@
 </tbody>
 </table>
 <p><em>Non-appearance tokens have been added to show they may be encountered, however useless they may be.</em></p>
+<p>If you're looking to do this with as few characters as possible, your main concern are the weapon tokens. The following setup gives you the chance to get all possible weapon appearances:</p>
+<ul style="list-style-type: circle;">
+<li>Priest (Spires, Scepters)</li>
+<li>Rogue (Daggers, Axes, Warmaces)</li>
+<li>Hunter (Bows, Polearms)</li>
+<li>Any Plate class (Greataxes, Axes) - Paladins can also get Warmaces</li>
+</ul>
 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
@@ -721,13 +728,6 @@
 </table>
 <p><em>*See the first table on the page, in which the Tormented items have a number next to them. In order for their mission to spawn, you must have a follower of that <strong>exact level</strong>. It does not matter if the follower is active or inactive.<br></em>**<em>This terribly low item level can be achieved by either leveling a new character and keeping it below the threshold, or deleting gear on a high-level character. Note that keeping gear in bags will not work, as that is also included in the calculation.</em></p>
 <p>In addition, it seems more likely that missions spawn the more followers you have. It is unknown at this time whether more followers of a specific level results in more chances of missions <em>of that specific level</em> spawning.</p>
-<p>Finally, if you're looking to do this with as few characters as possible, your main concern are the weapon tokens. The following setup gives you the chance to get all possible weapon appearances:</p>
-<ul style="list-style-type: circle;">
-<li>Priest (Spires, Scepters)</li>
-<li>Rogue (Daggers, Axes, Warmaces)</li>
-<li>Hunter (Bows, Polearms)</li>
-<li>Any Plate class (Greataxes, Axes) - Paladins can also get Warmaces</li>
-</ul>
 <h2 id="mcetoc_1jvuq148i1dd">Turbulent Gear Tokens</h2>
 <p>The following four tokens can <strong>only</strong> be acquired at random from the <a href="https://www.wowhead.com/item=118924/cache-of-arms#contains">https://www.wowhead.com/item=118924/cache-of-arms#contains</a>, a reward from the Garrison Inn quest <a href="https://www.wowhead.com/quest=37167/and-no-maces">https://www.wowhead.com/quest=37167/and-no-maces</a>:</p>
 <ul style="list-style-type: circle;">
