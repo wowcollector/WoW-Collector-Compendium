@@ -3,7 +3,7 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-09-06T21:48:13+01:00</updated>
+    <updated>2026-09-06T21:52:20+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2026-09-06T21:48:13+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list. World https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments - Badlands, Rare
+                    This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list. World https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments - Badlands, Rare https://www.wowhead.com/item=9375/expert-goldminers-helmet?bonus=6710 - Badlands, Rare
                 ]]>
             </summary>
         <content type="html">
@@ -29,6 +29,7 @@
 <h1>World</h1>
 <ul style="list-style-type: circle;">
 <li><a href="https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments">https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments</a> - Badlands, Rare</li>
+<li><a href="https://www.wowhead.com/item=9375/expert-goldminers-helmet?bonus=6710">https://www.wowhead.com/item=9375/expert-goldminers-helmet?bonus=6710</a> - Badlands, Rare</li>
 </ul>
             ]]>
         </content>

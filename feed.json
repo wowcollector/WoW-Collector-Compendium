@@ -13,15 +13,15 @@
             "id": "https://wowcollector.github.io/WoW-Collector-Compendium/quantum-blacklist/",
             "url": "https://wowcollector.github.io/WoW-Collector-Compendium/quantum-blacklist/",
             "title": "Quantum Blacklist",
-            "summary": "This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list. World https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments - Badlands, Rare",
-            "content_html": "<p>This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list.</p>\n<h1>World</h1>\n<ul style=\"list-style-type: circle;\">\n<li><a href=\"https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments\">https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments</a> - Badlands, Rare</li>\n</ul>",
+            "summary": "This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list. World https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments - Badlands, Rare https://www.wowhead.com/item=9375/expert-goldminers-helmet?bonus=6710 - Badlands, Rare",
+            "content_html": "<p>This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list.</p>\n<h1>World</h1>\n<ul style=\"list-style-type: circle;\">\n<li><a href=\"https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments\">https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments</a> - Badlands, Rare</li>\n<li><a href=\"https://www.wowhead.com/item=9375/expert-goldminers-helmet?bonus=6710\">https://www.wowhead.com/item=9375/expert-goldminers-helmet?bonus=6710</a> - Badlands, Rare</li>\n</ul>",
             "author": {
                 "name": "Noxious"
             },
             "tags": [
             ],
             "date_published": "2026-09-06T21:48:13+01:00",
-            "date_modified": "2026-09-06T21:48:13+01:00"
+            "date_modified": "2026-09-06T21:52:20+01:00"
         },
         {
             "id": "https://wowcollector.github.io/WoW-Collector-Compendium/world-quest-weapons/",
