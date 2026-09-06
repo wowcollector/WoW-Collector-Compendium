@@ -3,12 +3,49 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-08-31T14:45:25+01:00</updated>
+    <updated>2026-09-06T15:03:33+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
     <id>https://wowcollector.github.io/WoW-Collector-Compendium</id>
 
+    <entry>
+        <title>World Quest Weapons</title>
+        <author>
+            <name>Noxious</name>
+        </author>
+        <link href="https://wowcollector.github.io/WoW-Collector-Compendium/world-quest-weapons/"/>
+        <id>https://wowcollector.github.io/WoW-Collector-Compendium/world-quest-weapons/</id>
+            <category term="Battle for Azeroth"/>
+
+        <updated>2026-09-06T15:03:33+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    You find the rare world quest on Zandalar or Kul Tiras that awards a weapon. You've been hunting those appearances for weeks or months. You go to WoWhead, check the world quest, and see the full list of weapons available as rewards. You see you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You find the rare world quest on Zandalar or Kul Tiras that awards a weapon. You've been hunting those appearances for weeks or months. You go to WoWhead, check the world quest, and see the full list of weapons available as rewards.</p>
+<p>You see you already own the one-handed sword being displayed as a reward on your current character, but not the two-handed sword that can also be earned. You switch from Protection to Fury and wait a minute, but nothing happens. Unlike in Zereth Mortis or other zones, the reward doesn't change.</p>
+<p>This is because those BFA world quests function differently. The reward is determined by your <strong>class</strong> rather than your <strong>spec</strong>.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/bfa_weapon_wq.png" alt="" width="1246" height="198" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_wq-xs.png 640w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_wq-sm.png 768w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_wq-md.png 1024w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_wq-lg.png 1366w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_wq-xl.png 1600w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_wq-2xl.png 1920w"></figure>
+<p>We'll use the world quest above as an example. See the list of rewards? This means that each of these rewards is available to <strong>at least one class</strong>. You can do the following to ensure you get everything you're missing before the world quest expires:</p>
+<ol>
+<li>Check to see which of these weapon appearances you're missing.
+<ol style="list-style-type: lower-alpha;">
+<li>You can find these in /att -&gt; Outdoor Zones -&gt; Zandalar / Kul Tiras -&gt; Zone Rewards</li>
+</ol>
+</li>
+<li>Open the page for each item you're missing.</li>
+<li>Check the loot eligibily under the item tooltip. <strong>One of these classes will have it as a reward</strong>.</li>
+<li>Log on each of the listed classes until you find the one that has the reward. Repeat for every item on the list.</li>
+</ol>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/bfa_weapon_eligibility.png" alt="" width="525" height="391" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-xs.png 640w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-sm.png 768w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-md.png 1024w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-lg.png 1366w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-xl.png 1600w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-2xl.png 1920w"></figure>
+<p>Ideally, you would have 1 character of each class with their BFA intro completed, and world quests unlocked. Note that Evokers, though released post-BFA, also get one of these as a reward, and can be particularly useful for hunting down Intellect-based two-handed swords.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Covenant Farming</title>
         <author>
