@@ -3,7 +3,7 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-09-06T21:52:20+01:00</updated>
+    <updated>2026-09-06T22:22:22+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
@@ -20,17 +20,38 @@
         <updated>2026-09-06T21:48:13+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list. World https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments - Badlands, Rare https://www.wowhead.com/item=9375/expert-goldminers-helmet?bonus=6710 - Badlands, Rare
+                    This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list. BADLANDS REDRIDGE MOUNTAINS OLD SCHOLOMANCE STORMSTOUT BREWERY
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list.</p>
 <h1>World</h1>
+<p><strong>BADLANDS</strong></p>
 <ul style="list-style-type: circle;">
-<li><a href="https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments">https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments</a> - Badlands, Rare</li>
-<li><a href="https://www.wowhead.com/item=9375/expert-goldminers-helmet?bonus=6710">https://www.wowhead.com/item=9375/expert-goldminers-helmet?bonus=6710</a> - Badlands, Rare</li>
+<li><a href="https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments">https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments</a> - Rare</li>
+<li><a href="https://www.wowhead.com/item=9375/expert-goldminers-helmet?bonus=6710">https://www.wowhead.com/item=9375/expert-goldminers-helmet?bonus=6710</a> - Rare</li>
 </ul>
+<p><strong>REDRIDGE MOUNTAINS</strong></p>
+<ul style="list-style-type: circle;">
+<li><a href="https://www.wowhead.com/item=1460/shadowhide-two-handed-sword?bonus=13617">https://www.wowhead.com/item=1460/shadowhide-two-handed-sword?bonus=13617</a> - Zone Drop</li>
+</ul>
+<h1>Dungeons</h1>
+<p><strong>OLD SCHOLOMANCE</strong></p>
+<ul style="list-style-type: circle;">
+<li><a href="https://www.wowhead.com/item=14536/bonebrace-hauberk?bonus=6710">https://www.wowhead.com/item=14536/bonebrace-hauberk?bonus=6710</a></li>
+<li><a href="https://www.wowhead.com/item=18698/tattered-leather-hood?bonus=6710">https://www.wowhead.com/item=18698/tattered-leather-hood?bonus=6710</a></li>
+<li><a href="https://www.wowhead.com/item=14632/necropile-leggings">https://www.wowhead.com/item=14632/necropile-leggings</a></li>
+<li><a href="https://www.wowhead.com/item=13314/alannas-embrace">https://www.wowhead.com/item=13314/alannas-embrace</a></li>
+<li><a href="https://www.wowhead.com/item=13937/headmasters-charge">https://www.wowhead.com/item=13937/headmasters-charge</a></li>
+</ul>
+<p><strong>STORMSTOUT BREWERY</strong></p>
+<ul style="list-style-type: circle;">
+<li><a href="https://www.wowhead.com/item=87545/inelava-spirit-of-inebriation?bonus=13827:6652#comments">https://www.wowhead.com/item=87545/inelava-spirit-of-inebriation?bonus=13827:6652#comments</a></li>
+<li> </li>
+</ul>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
