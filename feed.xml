@@ -3,12 +3,36 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-09-06T15:03:33+01:00</updated>
+    <updated>2026-09-06T21:48:13+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
     <id>https://wowcollector.github.io/WoW-Collector-Compendium</id>
 
+    <entry>
+        <title>Quantum Blacklist</title>
+        <author>
+            <name>Noxious</name>
+        </author>
+        <link href="https://wowcollector.github.io/WoW-Collector-Compendium/quantum-blacklist/"/>
+        <id>https://wowcollector.github.io/WoW-Collector-Compendium/quantum-blacklist/</id>
+
+        <updated>2026-09-06T21:48:13+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list. World https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments - Badlands, Rare
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list.</p>
+<h1>World</h1>
+<ul style="list-style-type: circle;">
+<li><a href="https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments">https://www.wowhead.com/item=9378/shovelphlanges-mining-axe?bonus=6710#comments</a> - Badlands, Rare</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>World Quest Weapons</title>
         <author>
