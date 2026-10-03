@@ -3,7 +3,7 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-10-03T13:20:55+01:00</updated>
+    <updated>2026-10-03T13:27:03+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
@@ -98,7 +98,7 @@
 </table>
 <p>The priority order with which this table was made:</p>
 <ol>
-<li>Classes best suited for collecting very specific things as noted in the Covenant Farming page linked above.</li>
+<li>Classes best suited for collecting very specific things as noted in the Covenant Farming page linked above, while ensuring they're as spread out as possible based on their "big spherule token" configurations.</li>
 <li>Ensuring as much spread as possible for the smaller <strong>bead</strong> tokens (which will be 100%'d much faster than the rest, but still)</li>
 </ol>
 <p>The only awkward inflection point is <strong>Priest</strong>. You really want a Cloth class on Venthyr for the Transport Network, but for the <strong>Venerated Spherule</strong>, it would be a better fit on Kyrian. With Priest on Venthyr, both it and Shaman basically count as a single character for the purpose of using up the Venerated Spherule optimally.</p>
