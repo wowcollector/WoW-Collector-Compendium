@@ -3,7 +3,7 @@
     <title>WoW Collector&#x27;s Compendium</title>
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium/feed.xml" rel="self" />
     <link href="https://wowcollector.github.io/WoW-Collector-Compendium" />
-    <updated>2026-10-03T13:27:03+01:00</updated>
+    <updated>2026-10-03T13:34:51+01:00</updated>
     <author>
         <name>Noxious</name>
     </author>
@@ -119,12 +119,12 @@
         <updated>2026-09-06T21:48:13+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list. BADLANDS REDRIDGE MOUNTAINS OLD SCHOLOMANCE STORMSTOUT BREWERY
+                    This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but are actually not. BADLANDS REDRIDGE MOUNTAINS OLD SCHOLOMANCE STORMSTOUT BREWERY
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but aren't actually on the list.</p>
+                <p>This page is for items you'd think were obtainable from Quantum Tokens in Dawn of the Infinite, but are actually not.</p>
 <h1>World</h1>
 <p><strong>BADLANDS</strong></p>
 <ul style="list-style-type: circle;">
@@ -147,7 +147,6 @@
 <p><strong>STORMSTOUT BREWERY</strong></p>
 <ul style="list-style-type: circle;">
 <li><a href="https://www.wowhead.com/item=87545/inelava-spirit-of-inebriation?bonus=13827:6652#comments">https://www.wowhead.com/item=87545/inelava-spirit-of-inebriation?bonus=13827:6652#comments</a></li>
-<li> </li>
 </ul>
 <p> </p>
 <p> </p>
@@ -188,6 +187,9 @@
 </ol>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/bfa_weapon_eligibility.png" alt="" width="525" height="391" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-xs.png 640w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-sm.png 768w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-md.png 1024w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-lg.png 1366w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-xl.png 1600w ,https://wowcollector.github.io/WoW-Collector-Compendium/media/posts/14/responsive/bfa_weapon_eligibility-2xl.png 1920w"></figure>
 <p>Ideally, you would have 1 character of each class with their BFA intro completed, and world quests unlocked. Note that Evokers, though released post-BFA, also get one of these as a reward, and can be particularly useful for hunting down Intellect-based two-handed swords.</p>
+<blockquote>
+<p><span style="color: #e03e2d;">!IMPORTANT! WoWhead's world quest rewards don't always display all the rewards! Make sure to check with every class just in case!</span></p>
+</blockquote>
             ]]>
         </content>
     </entry>
